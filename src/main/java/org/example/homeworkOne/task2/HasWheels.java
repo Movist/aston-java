@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.homeworkOne.task2;
 
 public interface HasWheels {
     void hasWheels();

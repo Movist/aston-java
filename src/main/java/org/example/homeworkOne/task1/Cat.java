@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.homeworkOne.task1;
 
 class Cat extends Mammal implements HasFur {
     @Override

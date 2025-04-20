@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.homeworkOne.task1;
 
 abstract class Vertebrate extends Animal implements HasSpine {
     @Override

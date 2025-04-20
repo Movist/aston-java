@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.homeworkOne.task2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.homeworkOne.task2;
 
 public class Helicopter extends Vehicle implements HasWheels, HasPropeller, Transportable {
     @Override
